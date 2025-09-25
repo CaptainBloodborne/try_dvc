@@ -1,0 +1,5 @@
+outs:
+- md5: 76832e536dd0f6925d2b2839d32e5f71
+  size: 5350671
+  hash: md5
+  path: 50ktriples.n3
